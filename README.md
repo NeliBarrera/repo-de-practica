@@ -1,4 +1,5 @@
 # repo-de-practica
-Esto es un repositorio de prueba, estoy aprendiendo a usar GitHub
+Esto es un repositorio de prueba
 
 Algo acerca de mi.
+Probando una nueva rama
